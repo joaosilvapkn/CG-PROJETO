@@ -11,3 +11,5 @@ Em linux:
   3. ./generator figura atributos (para gerar figuras em ficheiros .3d)
     
   4. ./engine test.xml (para gerar cenas descritas em ficheiros .xml)
+
+Nota final: 16.85
